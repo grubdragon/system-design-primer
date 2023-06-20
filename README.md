@@ -183,7 +183,10 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
 
 > Suggested topics to review based on your interview timeline (short, medium, long).
 
-![Imgur](images/OfVllex.png)
+<p align="center">
+ <img src="images/OfVllex.png">
+ <br/>
+</p>
 
 **Q: For interviews, do I need to know everything here?**
 
@@ -306,49 +309,73 @@ Check out the following links to get a better idea of what to expect:
 
 [View exercise and solution](solutions/system_design/pastebin/README.md)
 
-![Imgur](images/4edXG0T.png)
+<p align="center">
+ <img src="images/4edXG0T.png">
+ <br/>
+</p>
 
 ### Design the Twitter timeline and search (or Facebook feed and search)
 
 [View exercise and solution](solutions/system_design/twitter/README.md)
 
-![Imgur](images/jrUBAF7.png)
+<p align="center">
+ <img src="images/jrUBAF7.png">
+ <br/>
+</p>
 
 ### Design a web crawler
 
 [View exercise and solution](solutions/system_design/web_crawler/README.md)
 
-![Imgur](images/bWxPtQA.png)
+<p align="center">
+ <img src="images/bWxPtQA.png">
+ <br/>
+</p>
 
 ### Design Mint.com
 
 [View exercise and solution](solutions/system_design/mint/README.md)
 
-![Imgur](images/V5q57vU.png)
+<p align="center">
+ <img src="images/V5q57vU.png">
+ <br/>
+</p>
 
 ### Design the data structures for a social network
 
 [View exercise and solution](solutions/system_design/social_graph/README.md)
 
-![Imgur](images/cdCv5g7.png)
+<p align="center">
+ <img src="images/cdCv5g7.png">
+ <br/>
+</p>
 
 ### Design a key-value store for a search engine
 
 [View exercise and solution](solutions/system_design/query_cache/README.md)
 
-![Imgur](images/4j99mhe.png)
+<p align="center">
+ <img src="images/4j99mhe.png">
+ <br/>
+</p>
 
 ### Design Amazon's sales ranking by category feature
 
 [View exercise and solution](solutions/system_design/sales_rank/README.md)
 
-![Imgur](images/MzExP06.png)
+<p align="center">
+ <img src="images/MzExP06.png">
+ <br/>
+</p>
 
 ### Design a system that scales to millions of users on AWS
 
 [View exercise and solution](solutions/system_design/scaling_aws/README.md)
 
-![Imgur](images/jj3A5N8.png)
+<p align="center">
+ <img src="images/jj3A5N8.png">
+ <br/>
+</p>
 
 ## Object-oriented design interview questions with solutions
 
