@@ -1663,7 +1663,7 @@ Handy metrics based on numbers above:
 
 #### Latency numbers visualized
 
-![](https://camo.githubusercontent.com/77f72259e1eb58596b564d1ad823af1853bc60a3/687474703a2f2f692e696d6775722e636f6d2f6b307431652e706e67)
+<p align="center"><img src="/content/system-design-primer/images/687474703a2f2f692e696d6775722e636f6d2f6b307431652e706e67.png"><br/></p>
 
 #### Source(s) and further reading
 
