@@ -65,7 +65,7 @@ Handy conversion guide:
 > Outline a high level design with all important components.
 
 <p align="center">
- <img src="/content/system-design-primer/images/B8LDKD7.png">
+ <img src="/content/system-design-primer/images/B8LDKD7.png" />
  <br/>
 </p>
 
@@ -143,7 +143,7 @@ Add a **DNS** such as Route 53 to map the domain to the instance's public IP.
 ### Users+
 
 <p align="center">
- <img src="/content/system-design-primer/images/rrfjMXB.png">
+ <img src="/content/system-design-primer/images/rrfjMXB.png" />
  <br/>
 </p>
 
@@ -198,7 +198,7 @@ We've been able to address these issues with **Vertical Scaling** so far.  Unfor
 ### Users++
 
 <p align="center">
- <img src="/content/system-design-primer/images/raoFTXM.png">
+ <img src="/content/system-design-primer/images/raoFTXM.png" />
  <br/>
 </p>
 
@@ -230,7 +230,7 @@ Our **Benchmarks/Load Tests** and **Profiling** show that our single **Web Serve
 ### Users+++
 
 <p align="center">
- <img src="/content/system-design-primer/images/OZCxJr0.png">
+ <img src="/content/system-design-primer/images/OZCxJr0.png" />
  <br/>
 </p>
 
@@ -271,7 +271,7 @@ Our **Benchmarks/Load Tests** and **Profiling** show that we are read-heavy (100
 ### Users++++
 
 <p align="center">
- <img src="/content/system-design-primer/images/3X8nmdL.png">
+ <img src="/content/system-design-primer/images/3X8nmdL.png" />
  <br/>
 </p>
 
@@ -313,7 +313,7 @@ Our **Benchmarks/Load Tests** and **Profiling** show that our traffic spikes dur
 ### Users+++++
 
 <p align="center">
- <img src="/content/system-design-primer/images/jj3A5N8.png">
+ <img src="/content/system-design-primer/images/jj3A5N8.png" />
  <br/>
 </p>
 

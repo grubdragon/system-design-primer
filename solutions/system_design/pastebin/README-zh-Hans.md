@@ -80,7 +80,7 @@
 > 概述一个包括所有重要的组件的高层次设计
 
 <p align="center">
- <img src="/content/system-design-primer/images/BKsBnmG.png">
+ <img src="/content/system-design-primer/images/BKsBnmG.png" />
  <br/>
 </p>
 
@@ -237,7 +237,7 @@ class HitCounts(MRJob):
 > 给定约束条件，识别和解决瓶颈。
 
 <p align="center">
- <img src="/content/system-design-primer/images/4edXG0T.png">
+ <img src="/content/system-design-primer/images/4edXG0T.png" />
  <br/>
 </p>
 

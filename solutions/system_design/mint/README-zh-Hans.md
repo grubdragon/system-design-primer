@@ -81,7 +81,7 @@
 > 列出所有重要组件以规划概要设计。
 
 <p align="center">
- <img src="/content/system-design-primer/images/E8klrBh.png">
+ <img src="/content/system-design-primer/images/E8klrBh.png" />
  <br/>
 </p>
 
@@ -331,7 +331,7 @@ class SpendingByCategory(MRJob):
 > 根据限制条件，找到并解决瓶颈。
 
 <p align="center">
- <img src="/content/system-design-primer/images/V5q57vU.png">
+ <img src="/content/system-design-primer/images/V5q57vU.png" />
  <br/>
 </p>
 

@@ -65,7 +65,7 @@
 > 用所有重要组件概述高水平设计
 
 <p align="center">
- <img src="/content/system-design-primer/images/B8LDKD7.png">
+ <img src="/content/system-design-primer/images/B8LDKD7.png" />
  <br/>
 </p>
 
@@ -143,7 +143,7 @@
 ### 用户+
 
 <p align="center">
- <img src="/content/system-design-primer/images/rrfjMXB.png">
+ <img src="/content/system-design-primer/images/rrfjMXB.png" />
  <br/>
 </p>
 
@@ -198,7 +198,7 @@
 ### 用户+++
 
 <p align="center">
- <img src="/content/system-design-primer/images/raoFTXM.png">
+ <img src="/content/system-design-primer/images/raoFTXM.png" />
  <br/>
 </p>
 
@@ -230,7 +230,7 @@
 ### 用户+++
 
 <p align="center">
- <img src="/content/system-design-primer/images/OZCxJr0.png">
+ <img src="/content/system-design-primer/images/OZCxJr0.png" />
  <br/>
 </p>
 
@@ -271,7 +271,7 @@
 ### 用户++++
 
 <p align="center">
- <img src="/content/system-design-primer/images/3X8nmdL.png">
+ <img src="/content/system-design-primer/images/3X8nmdL.png" />
  <br/>
 </p>
 
@@ -313,7 +313,7 @@
 ### 用户+++++
 
 <p align="center">
- <img src="/content/system-design-primer/images/jj3A5N8.png">
+ <img src="/content/system-design-primer/images/jj3A5N8.png" />
  <br/>
 </p>
 

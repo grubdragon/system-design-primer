@@ -51,7 +51,7 @@
 > 用所有重要组件概述高水平设计
 
 <p align="center">
- <img src="/content/system-design-primer/images/wxXyq2J.png">
+ <img src="/content/system-design-primer/images/wxXyq2J.png" />
  <br/>
 </p>
 
@@ -253,7 +253,7 @@ $ curl https://social.com/api/v1/friend_search?person_id=1234
 > 在给定约束条件下，定义和确认瓶颈。
 
 <p align="center">
- <img src="/content/system-design-primer/images/cdCv5g7.png">
+ <img src="/content/system-design-primer/images/cdCv5g7.png" />
  <br/>
 </p>
 

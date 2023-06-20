@@ -71,7 +71,7 @@
 > 列出所有重要组件以规划概要设计。
 
 <p align="center">
- <img src="/content/system-design-primer/images/vwMa1Qu.png">
+ <img src="/content/system-design-primer/images/vwMa1Qu.png" />
  <br/>
 </p>
 
@@ -244,7 +244,7 @@ $ curl https://amazon.com/api/v1/popular?category_id=1234
 > 根据限制条件，找到并解决瓶颈。
 
 <p align="center">
- <img src="/content/system-design-primer/images/MzExP06.png">
+ <img src="/content/system-design-primer/images/MzExP06.png" />
  <br/>
 </p>
 
