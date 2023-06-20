@@ -71,7 +71,7 @@ Handy conversion guide:
 > Outline a high level design with all important components.
 
 <p align="center">
- <img src="http://i.imgur.com/vwMa1Qu.png">
+ <img src="/content/system-design-primer/images/vwMa1Qu.png">
  <br/>
 </p>
 
@@ -243,7 +243,7 @@ For internal communications, we could use [Remote Procedure Calls](https://githu
 > Identify and address bottlenecks, given the constraints.
 
 <p align="center">
- <img src="http://i.imgur.com/MzExP06.png">
+ <img src="/content/system-design-primer/images/MzExP06.png">
  <br/>
 </p>
 

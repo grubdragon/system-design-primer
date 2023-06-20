@@ -51,7 +51,7 @@ Handy conversion guide:
 > Outline a high level design with all important components.
 
 <p align="center">
- <img src="http://i.imgur.com/wxXyq2J.png">
+ <img src="/content/system-design-primer/images/wxXyq2J.png">
  <br/>
 </p>
 
@@ -254,7 +254,7 @@ For internal communications, we could use [Remote Procedure Calls](https://githu
 > Identify and address bottlenecks, given the constraints.
 
 <p align="center">
- <img src="http://i.imgur.com/cdCv5g7.png">
+ <img src="/content/system-design-primer/images/cdCv5g7.png">
  <br/>
 </p>
 

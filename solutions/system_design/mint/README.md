@@ -81,7 +81,7 @@ Handy conversion guide:
 > Outline a high level design with all important components.
 
 <p align="center">
- <img src="http://i.imgur.com/E8klrBh.png">
+ <img src="/content/system-design-primer/images/E8klrBh.png">
  <br/>
 </p>
 
@@ -331,7 +331,7 @@ class SpendingByCategory(MRJob):
 > Identify and address bottlenecks, given the constraints.
 
 <p align="center">
- <img src="http://i.imgur.com/V5q57vU.png">
+ <img src="/content/system-design-primer/images/V5q57vU.png">
  <br/>
 </p>
 

@@ -59,7 +59,7 @@ Handy conversion guide:
 > Outline a high level design with all important components.
 
 <p align="center">
- <img src="http://i.imgur.com/KqZ3dSx.png">
+ <img src="/content/system-design-primer/images/KqZ3dSx.png">
  <br/>
 </p>
 
@@ -216,7 +216,7 @@ Refer to [When to update the cache](https://github.com/donnemartin/system-design
 > Identify and address bottlenecks, given the constraints.
 
 <p align="center">
- <img src="http://i.imgur.com/4j99mhe.png">
+ <img src="/content/system-design-primer/images/4j99mhe.png">
  <br/>
 </p>
 

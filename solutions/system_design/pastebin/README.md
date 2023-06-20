@@ -80,7 +80,7 @@ Handy conversion guide:
 > Outline a high level design with all important components.
 
 <p align="center">
- <img src="http://i.imgur.com/BKsBnmG.png">
+ <img src="/content/system-design-primer/images/BKsBnmG.png">
  <br/>
 </p>
 
@@ -239,7 +239,7 @@ To delete expired pastes, we could just scan the **SQL Database** for all entrie
 > Identify and address bottlenecks, given the constraints.
 
 <p align="center">
- <img src="http://i.imgur.com/4edXG0T.png">
+ <img src="/content/system-design-primer/images/4edXG0T.png">
  <br/>
 </p>
 

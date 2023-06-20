@@ -59,7 +59,7 @@
 > 列出所有重要组件以规划概要设计。
 
 <p align="center">
- <img src="http://i.imgur.com/KqZ3dSx.png">
+ <img src="/content/system-design-primer/images/KqZ3dSx.png">
  <br/>
 </p>
 
@@ -216,7 +216,7 @@ class Cache(object):
 > 根据限制条件，找到并解决瓶颈。
 
 <p align="center">
- <img src="http://i.imgur.com/4j99mhe.png">
+ <img src="/content/system-design-primer/images/4j99mhe.png">
  <br/>
 </p>
 

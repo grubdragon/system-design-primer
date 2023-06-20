@@ -68,7 +68,7 @@
 > 列出所有重要组件以规划概要设计。
 
 <p align="center">
- <img src="http://i.imgur.com/xjdAAUv.png">
+ <img src="/content/system-design-primer/images/xjdAAUv.png">
  <br/>
 </p>
 
@@ -259,7 +259,7 @@ $ curl https://search.com/api/v1/search?query=hello+world
 > 根据限制条件，找到并解决瓶颈。
 
 <p align="center">
- <img src="http://i.imgur.com/bWxPtQA.png">
+ <img src="/content/system-design-primer/images/bWxPtQA.png">
  <br/>
 </p>
 
