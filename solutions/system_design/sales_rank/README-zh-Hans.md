@@ -70,7 +70,10 @@
 
 > 列出所有重要组件以规划概要设计。
 
-![Imgur](http://i.imgur.com/vwMa1Qu.png)
+<p align="center">
+ <img src="http://i.imgur.com/vwMa1Qu.png">
+ <br/>
+</p>
 
 ## 第三步：设计核心组件
 
@@ -240,7 +243,10 @@ $ curl https://amazon.com/api/v1/popular?category_id=1234
 
 > 根据限制条件，找到并解决瓶颈。
 
-![Imgur](http://i.imgur.com/MzExP06.png)
+<p align="center">
+ <img src="http://i.imgur.com/MzExP06.png">
+ <br/>
+</p>
 
 **重要提示：不要从最初设计直接跳到最终设计中！**
 

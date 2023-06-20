@@ -79,7 +79,10 @@ Handy conversion guide:
 
 > Outline a high level design with all important components.
 
-![Imgur](http://i.imgur.com/BKsBnmG.png)
+<p align="center">
+ <img src="http://i.imgur.com/BKsBnmG.png">
+ <br/>
+</p>
 
 ## Step 3: Design core components
 
@@ -235,7 +238,10 @@ To delete expired pastes, we could just scan the **SQL Database** for all entrie
 
 > Identify and address bottlenecks, given the constraints.
 
-![Imgur](http://i.imgur.com/4edXG0T.png)
+<p align="center">
+ <img src="http://i.imgur.com/4edXG0T.png">
+ <br/>
+</p>
 
 **Important: Do not simply jump right into the final design from the initial design!**
 

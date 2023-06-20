@@ -64,7 +64,10 @@
 
 > 用所有重要组件概述高水平设计
 
-![Imgur](http://i.imgur.com/B8LDKD7.png)
+<p align="center">
+ <img src="http://i.imgur.com/B8LDKD7.png">
+ <br/>
+</p>
 
 ## 第 3 步：设计核心组件
 
@@ -139,7 +142,10 @@
 
 ### 用户+
 
-![Imgur](http://i.imgur.com/rrfjMXB.png)
+<p align="center">
+ <img src="http://i.imgur.com/rrfjMXB.png">
+ <br/>
+</p>
 
 #### 假设
 
@@ -191,7 +197,10 @@
 
 ### 用户+++
 
-![Imgur](http://i.imgur.com/raoFTXM.png)
+<p align="center">
+ <img src="http://i.imgur.com/raoFTXM.png">
+ <br/>
+</p>
 
 #### 假设
 
@@ -220,7 +229,10 @@
 
 ### 用户+++
 
-![Imgur](http://i.imgur.com/OZCxJr0.png)
+<p align="center">
+ <img src="http://i.imgur.com/OZCxJr0.png">
+ <br/>
+</p>
 
 **注意：** **内部负载均衡** 不显示以减少混乱
 
@@ -258,7 +270,10 @@
 
 ### 用户++++
 
-![Imgur](http://i.imgur.com/3X8nmdL.png)
+<p align="center">
+ <img src="http://i.imgur.com/3X8nmdL.png">
+ <br/>
+</p>
 
 #### 假设
 
@@ -297,7 +312,10 @@
 
 ### 用户+++++
 
-![Imgur](http://i.imgur.com/jj3A5N8.png)
+<p align="center">
+ <img src="http://i.imgur.com/jj3A5N8.png">
+ <br/>
+</p>
 
 **注释：** **自动伸缩** 组不显示以减少混乱
 

@@ -50,7 +50,10 @@
 
 > 用所有重要组件概述高水平设计
 
-![Imgur](http://i.imgur.com/wxXyq2J.png)
+<p align="center">
+ <img src="http://i.imgur.com/wxXyq2J.png">
+ <br/>
+</p>
 
 ## 第 3 步：设计核心组件
 
@@ -249,7 +252,10 @@ $ curl https://social.com/api/v1/friend_search?person_id=1234
 
 > 在给定约束条件下，定义和确认瓶颈。
 
-![Imgur](http://i.imgur.com/cdCv5g7.png)
+<p align="center">
+ <img src="http://i.imgur.com/cdCv5g7.png">
+ <br/>
+</p>
 
 **重要：别简化从最初设计到最终设计的过程！**
 

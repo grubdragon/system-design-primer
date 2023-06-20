@@ -58,7 +58,10 @@ Handy conversion guide:
 
 > Outline a high level design with all important components.
 
-![Imgur](http://i.imgur.com/KqZ3dSx.png)
+<p align="center">
+ <img src="http://i.imgur.com/KqZ3dSx.png">
+ <br/>
+</p>
 
 ## Step 3: Design core components
 
@@ -212,7 +215,10 @@ Refer to [When to update the cache](https://github.com/donnemartin/system-design
 
 > Identify and address bottlenecks, given the constraints.
 
-![Imgur](http://i.imgur.com/4j99mhe.png)
+<p align="center">
+ <img src="http://i.imgur.com/4j99mhe.png">
+ <br/>
+</p>
 
 **Important: Do not simply jump right into the final design from the initial design!**
 

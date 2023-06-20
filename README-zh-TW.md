@@ -180,7 +180,10 @@
 
 > 基於你面試的時間 (短、中、長) 來複習這些建議的主題。
 
-![Imgur](images/OfVllex.png)
+<p align="center">
+ <img src="images/OfVllex.png">
+ <br/>
+</p>
 
 **Q: 對於面試者來說，我需要知道這裡所有的知識嗎？**
 
@@ -302,49 +305,73 @@
 
 [閱讀練習與解答](solutions/system_design/pastebin/README.md)
 
-![Imgur](images/4edXG0T.png)
+<p align="center">
+ <img src="images/4edXG0T.png">
+ <br/>
+</p>
 
 ### 設計一個像是 Twitter 的 timeline (或 Facebook feed)設計一個 Twitter 搜尋功能 (or Facebook 搜尋功能)
 
 [閱讀練習與解答](solutions/system_design/twitter/README.md)
 
-![Imgur](images/jrUBAF7.png)
+<p align="center">
+ <img src="images/jrUBAF7.png">
+ <br/>
+</p>
 
 ### 設計一個爬蟲系統
 
 [閱讀練習與解答](solutions/system_design/web_crawler/README.md)
 
-![Imgur](images/bWxPtQA.png)
+<p align="center">
+ <img src="images/bWxPtQA.png">
+ <br/>
+</p>
 
 ### 設計 Mint.com 網站
 
 [閱讀練習與解答](solutions/system_design/mint/README.md)
 
-![Imgur](images/V5q57vU.png)
+<p align="center">
+ <img src="images/V5q57vU.png">
+ <br/>
+</p>
 
 ### 設計一個社交網站的資料結構
 
 [閱讀練習與解答](solutions/system_design/social_graph/README.md)
 
-![Imgur](images/cdCv5g7.png)
+<p align="center">
+ <img src="images/cdCv5g7.png">
+ <br/>
+</p>
 
 ### 設計一個搜尋引擎使用的鍵值儲存資料結構
 
 [閱讀練習與解答](solutions/system_design/query_cache/README.md)
 
-![Imgur](images/4j99mhe.png)
+<p align="center">
+ <img src="images/4j99mhe.png">
+ <br/>
+</p>
 
 ### 設計一個根據產品分類的亞馬遜銷售排名
 
 [閱讀練習與解答](solutions/system_design/sales_rank/README.md)
 
-![Imgur](images/MzExP06.png)
+<p align="center">
+ <img src="images/MzExP06.png">
+ <br/>
+</p>
 
 ### 在 AWS 上設計一個百萬用戶等級的系統
 
 [閱讀練習與解答](solutions/system_design/scaling_aws/README.md)
 
-![Imgur](images/jj3A5N8.png)
+<p align="center">
+ <img src="images/jj3A5N8.png">
+ <br/>
+</p>
 
 ## 物件導向設計面試問題與解答
 

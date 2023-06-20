@@ -69,7 +69,10 @@ Handy conversion guide:
 
 > Outline a high level design with all important components.
 
-![Imgur](http://i.imgur.com/xjdAAUv.png)
+<p align="center">
+ <img src="http://i.imgur.com/xjdAAUv.png">
+ <br/>
+</p>
 
 ## Step 3: Design core components
 
@@ -256,7 +259,10 @@ For internal communications, we could use [Remote Procedure Calls](https://githu
 
 > Identify and address bottlenecks, given the constraints.
 
-![Imgur](http://i.imgur.com/bWxPtQA.png)
+<p align="center">
+ <img src="http://i.imgur.com/bWxPtQA.png">
+ <br/>
+</p>
 
 **Important: Do not simply jump right into the final design from the initial design!**
 

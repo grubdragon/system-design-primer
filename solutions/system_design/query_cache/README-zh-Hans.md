@@ -58,7 +58,10 @@
 
 > 列出所有重要组件以规划概要设计。
 
-![Imgur](http://i.imgur.com/KqZ3dSx.png)
+<p align="center">
+ <img src="http://i.imgur.com/KqZ3dSx.png">
+ <br/>
+</p>
 
 ## 第三步：设计核心组件
 
@@ -212,7 +215,10 @@ class Cache(object):
 
 > 根据限制条件，找到并解决瓶颈。
 
-![Imgur](http://i.imgur.com/4j99mhe.png)
+<p align="center">
+ <img src="http://i.imgur.com/4j99mhe.png">
+ <br/>
+</p>
 
 **重要提示：不要从最初设计直接跳到最终设计中！**
 

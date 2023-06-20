@@ -93,7 +93,10 @@ Handy conversion guide:
 
 > Outline a high level design with all important components.
 
-![Imgur](http://i.imgur.com/48tEA2j.png)
+<p align="center">
+ <img src="http://i.imgur.com/48tEA2j.png">
+ <br/>
+</p>
 
 ## Step 3: Design core components
 
@@ -223,7 +226,10 @@ The response would be similar to that of the home timeline, except for tweets ma
 
 > Identify and address bottlenecks, given the constraints.
 
-![Imgur](http://i.imgur.com/jrUBAF7.png)
+<p align="center">
+ <img src="http://i.imgur.com/jrUBAF7.png">
+ <br/>
+</p>
 
 **Important: Do not simply jump right into the final design from the initial design!**
 

@@ -186,7 +186,10 @@
 
 > 基于你面试的时间线（短、中、长）去复习那些推荐的主题。
 
-![Imgur](images/OfVllex.png)
+<p align="center">
+ <img src="images/OfVllex.png">
+ <br/>
+</p>
 
 **问：对于面试来说，我需要知道这里的所有知识点吗？**
 
@@ -307,49 +310,73 @@
 
 [查看实践与解答](solutions/system_design/pastebin/README.md)
 
-![Imgur](images/4edXG0T.png)
+<p align="center">
+ <img src="images/4edXG0T.png">
+ <br/>
+</p>
 
 ### 设计 Twitter 时间线和搜索 (或者 Facebook feed 和搜索)
 
 [查看实践与解答](solutions/system_design/twitter/README.md)
 
-![Imgur](images/jrUBAF7.png)
+<p align="center">
+ <img src="images/jrUBAF7.png">
+ <br/>
+</p>
 
 ### 设计一个网页爬虫
 
 [查看实践与解答](solutions/system_design/web_crawler/README.md)
 
-![Imgur](images/bWxPtQA.png)
+<p align="center">
+ <img src="images/bWxPtQA.png">
+ <br/>
+</p>
 
 ### 设计 Mint.com
 
 [查看实践与解答](solutions/system_design/mint/README.md)
 
-![Imgur](images/V5q57vU.png)
+<p align="center">
+ <img src="images/V5q57vU.png">
+ <br/>
+</p>
 
 ### 为一个社交网络设计数据结构
 
 [查看实践与解答](solutions/system_design/social_graph/README.md)
 
-![Imgur](images/cdCv5g7.png)
+<p align="center">
+ <img src="images/cdCv5g7.png">
+ <br/>
+</p>
 
 ### 为搜索引擎设计一个 key-value 储存
 
 [查看实践与解答](solutions/system_design/query_cache/README.md)
 
-![Imgur](images/4j99mhe.png)
+<p align="center">
+ <img src="images/4j99mhe.png">
+ <br/>
+</p>
 
 ### 设计按类别分类的 Amazon 销售排名
 
 [查看实践与解答](solutions/system_design/sales_rank/README.md)
 
-![Imgur](images/MzExP06.png)
+<p align="center">
+ <img src="images/MzExP06.png">
+ <br/>
+</p>
 
 ### 在 AWS 上设计一个百万用户级别的系统
 
 [查看实践与解答](solutions/system_design/scaling_aws/README.md)
 
-![Imgur](images/jj3A5N8.png)
+<p align="center">
+ <img src="images/jj3A5N8.png">
+ <br/>
+</p>
 
 ## 面向对象设计的面试问题及解答
 

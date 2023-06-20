@@ -180,7 +180,10 @@
 
 > 学習スパンに応じてみるべきトピックス (short, medium, long)
 
-![Imgur](images/OfVllex.png)
+<p align="center">
+ <img src="images/OfVllex.png">
+ <br/>
+</p>
 
 **Q: 面接のためには、ここにあるものすべてをやらないといけないのでしょうか？**
 
@@ -302,49 +305,73 @@
 
 [問題と解答を見る](solutions/system_design/pastebin/README.md)
 
-![Imgur](images/4edXG0T.png)
+<p align="center">
+ <img src="images/4edXG0T.png">
+ <br/>
+</p>
 
 ### Twitterタイムライン&検索 (もしくはFacebookフィード&検索)を設計する
 
 [問題と解答を見る](solutions/system_design/twitter/README.md)
 
-![Imgur](images/jrUBAF7.png)
+<p align="center">
+ <img src="images/jrUBAF7.png">
+ <br/>
+</p>
 
 ### ウェブクローラーの設計
 
 [問題と解答を見る](solutions/system_design/web_crawler/README.md)
 
-![Imgur](images/bWxPtQA.png)
+<p align="center">
+ <img src="images/bWxPtQA.png">
+ <br/>
+</p>
 
 ### Mint.comの設計
 
 [問題と解答を見る](solutions/system_design/mint/README.md)
 
-![Imgur](images/V5q57vU.png)
+<p align="center">
+ <img src="images/V5q57vU.png">
+ <br/>
+</p>
 
 ### SNSサービスのデータ構造を設計する
 
 [問題と解答を見る](solutions/system_design/social_graph/README.md)
 
-![Imgur](images/cdCv5g7.png)
+<p align="center">
+ <img src="images/cdCv5g7.png">
+ <br/>
+</p>
 
 ### 検索エンジンのキー/バリュー構造を設計する
 
 [問題と解答を見る](solutions/system_design/query_cache/README.md)
 
-![Imgur](images/4j99mhe.png)
+<p align="center">
+ <img src="images/4j99mhe.png">
+ <br/>
+</p>
 
 ### Amazonのカテゴリ毎の売り上げランキングを設計する
 
 [問題と解答を見る](solutions/system_design/sales_rank/README.md)
 
-![Imgur](images/MzExP06.png)
+<p align="center">
+ <img src="images/MzExP06.png">
+ <br/>
+</p>
 
 ### AWS上で100万人規模のユーザーを捌くサービスを設計する
 
 [問題と解答を見る](solutions/system_design/scaling_aws/README.md)
 
-![Imgur](images/jj3A5N8.png)
+<p align="center">
+ <img src="images/jj3A5N8.png">
+ <br/>
+</p>
 
 ## オブジェクト指向設計問題と解答
 

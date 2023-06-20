@@ -67,7 +67,10 @@
 
 > 列出所有重要组件以规划概要设计。
 
-![Imgur](http://i.imgur.com/xjdAAUv.png)
+<p align="center">
+ <img src="http://i.imgur.com/xjdAAUv.png">
+ <br/>
+</p>
 
 ## 第三步：设计核心组件
 
@@ -255,7 +258,10 @@ $ curl https://search.com/api/v1/search?query=hello+world
 
 > 根据限制条件，找到并解决瓶颈。
 
-![Imgur](http://i.imgur.com/bWxPtQA.png)
+<p align="center">
+ <img src="http://i.imgur.com/bWxPtQA.png">
+ <br/>
+</p>
 
 **重要提示：不要直接从最初设计跳到最终设计！**
 
